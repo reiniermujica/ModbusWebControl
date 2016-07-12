@@ -9,7 +9,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace ModbusMaster
+namespace ModbusRemote
 {
 	/// <summary>
 	/// Class with program entry point.

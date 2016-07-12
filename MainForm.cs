@@ -26,7 +26,7 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-namespace ModbusMaster
+namespace ModbusRemote
 {	
 	public partial class MainForm : Form
 	{

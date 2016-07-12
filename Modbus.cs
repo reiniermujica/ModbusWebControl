@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using System.Text;
 using System.Threading;
 
-namespace ModbusMaster
+namespace ModbusRemote
 {	
 	public class ModbusMaster
 	{		
